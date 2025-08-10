@@ -1,0 +1,80 @@
+Day 1
+5
+Logins:D:5.0:
+Time online:C:127.33767649940414:
+Emails sent:D:14.0:
+Emails opened:D:12.0:
+Emails deleted:D:8.0:
+
+Day 2
+5
+Logins:D:4.0:
+Time online:C:144.4676706149625:
+Emails sent:D:12.0:
+Emails opened:D:16.0:
+Emails deleted:D:7.0:
+
+Day 3
+5
+Logins:D:5.0:
+Time online:C:144.11745491972422:
+Emails sent:D:12.0:
+Emails opened:D:16.0:
+Emails deleted:D:10.0:
+
+Day 4
+5
+Logins:D:5.0:
+Time online:C:122.01941643179774:
+Emails sent:D:13.0:
+Emails opened:D:9.0:
+Emails deleted:D:6.0:
+
+Day 5
+5
+Logins:D:4.0:
+Time online:C:150.28443696438637:
+Emails sent:D:12.0:
+Emails opened:D:15.0:
+Emails deleted:D:13.0:
+
+Day 6
+5
+Logins:D:4.0:
+Time online:C:153.04835518295826:
+Emails sent:D:9.0:
+Emails opened:D:8.0:
+Emails deleted:D:7.0:
+
+Day 7
+5
+Logins:D:4.0:
+Time online:C:128.24402872663768:
+Emails sent:D:12.0:
+Emails opened:D:12.0:
+Emails deleted:D:9.0:
+
+Day 8
+5
+Logins:D:5.0:
+Time online:C:221.6828021802421:
+Emails sent:D:13.0:
+Emails opened:D:15.0:
+Emails deleted:D:8.0:
+
+Day 9
+5
+Logins:D:3.0:
+Time online:C:147.76595724215346:
+Emails sent:D:11.0:
+Emails opened:D:8.0:
+Emails deleted:D:10.0:
+
+Day 10
+5
+Logins:D:2.0:
+Time online:C:144.81707485975306:
+Emails sent:D:15.0:
+Emails opened:D:2.0:
+Emails deleted:D:12.0:
+
